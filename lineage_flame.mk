@@ -25,7 +25,7 @@ RISING_BATTERY := 2800mah
 RISING_RAM := 6gb
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    RISING_CHIPSET"Snapdragon 855" \
+    RISING_CHIPSET="Snapdragon 855" \
     RISING_MAINTAINER="nhansp ft. yuuki"
 
 # RisingOS targets
